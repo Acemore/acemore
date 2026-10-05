@@ -6,9 +6,9 @@ An engineer with a foundational degree in Applied Mathematics and Computer Scien
 
 * **Languages:** Python (Async Stack), C# / .NET (OOP architecture, code review & refactoring).
 * **Backend:** FastAPI, Asyncio, SQLAlchemy 2.0 (Async / Mapped), Pydantic v2, APScheduler.
-* **Databases & Migrations:** PostgreSQL (async connection pool management, transactional rollbacks), Alembic.
+* **Databases & Migrations:** PostgreSQL (async connection pool management, constraints tuning), Alembic.
 * **DevOps:** Docker, Docker Compose (multi-container orchestration, services dependency tuning), GitHub Actions (CI / CD pipelines), uv, Git (Conventional Commits), Linux / Bash.
-* **QA & Observability:** Pytest (AsyncMock, database test isolation), Mypy, Ruff, structlog (structured JSON logging).
+* **QA & Observability:** Pytest (AsyncMock, transaction-isolated database test environments), Mypy, Ruff, structlog (structured JSON logging).
 * **Data Layer & Network:** httpx (asynchronous HTTP clients), selectolax (high-performance DOM parsing).
 
 ---
@@ -28,5 +28,5 @@ An isolated, high-performance asynchronous ETL system for stream processing, uni
 
 ## 📬 Connect with me
 
-* **Email:** acemore007@gmail.com
+* **Email:** [acemore007&#64;gmail.com](mailto:acemore007&#64;gmail.com)
 * **Habr Career:** [https://career.habr.com/acemore](https://career.habr.com/acemore)
