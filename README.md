@@ -28,5 +28,6 @@ An isolated, high-performance asynchronous ETL system for stream processing, uni
 
 ## 📬 Connect with me
 
+* **Telegram:** [@ace_more](https://t.me/ace_more)
 * **Email:** [acemore007&#64;gmail.com](mailto:acemore007&#64;gmail.com)
 * **Habr Career:** [https://career.habr.com/acemore](https://career.habr.com/acemore)
